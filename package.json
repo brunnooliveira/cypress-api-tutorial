@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/brunnooliveira/cypress-api-tutorial#readme",
   "devDependencies": {
-    "cypress": "^9.7.0"
+    "cypress": "^9.7.0",
+    "faker": "^5.5.3"
   }
 }
